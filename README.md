@@ -8,7 +8,8 @@
 2. 你再猜猜看
 3. 你继续猜
 4. 我摊牌了，其实我...
-学过的编程语言：
+
+git学过的编程语言：
 ```javascript
 var a = 'hello world!';
 log(a);
