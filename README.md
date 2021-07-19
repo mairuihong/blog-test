@@ -9,7 +9,7 @@
 3. 你继续猜
 4. 我摊牌了，其实我...
 
-git学过的编程语言：
+学过的编程语言：
 ```javascript
 var a = 'hello world!';
 log(a);
